@@ -1,4 +1,4 @@
-!Hola  soy Alberto vega¡
+!Hola  soy Alberto Vega!
 
 
 Un Front End  developer  junior que busca  aprender cosas nuevas y mejoras sus habilidades.
